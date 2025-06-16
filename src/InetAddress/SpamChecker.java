@@ -1,4 +1,4 @@
-//Add program to list all network interfaces on the system
+//Add program to check if an email sender's IP is on a spam blacklist
 
 package InetAddress;
 
