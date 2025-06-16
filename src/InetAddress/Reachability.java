@@ -1,3 +1,5 @@
+//Add program to check reachability of a host using InetAddress
+
 package InetAddress;
 
 import java.net.InetAddress;
