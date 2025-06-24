@@ -15,7 +15,6 @@ public class ByteBufferSimple {
         while (buffer.hasRemaining()){
             System.out.println((char) buffer.get());  //Drain
         }
-
     }
 }
 
